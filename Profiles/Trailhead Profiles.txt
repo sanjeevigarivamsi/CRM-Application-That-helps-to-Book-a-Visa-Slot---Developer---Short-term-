@@ -1,8 +1,34 @@
 Name - SANJEEVIGARI VAMSI
 LEARNING TRACK - DEVELOPER
-Email - sanjeevigarivamsi@gamil.com
+Email - sanjeevigarivamsi@gmail.com
 Tarailhead Profile - https://www.salesforce.com/trailblazer/sanjeevigarivamsi
 Username (Developer Org) - sanjeevigarivamsi@gdcproject.com
 Contact - 9704810689
 
+Name - NADELLA LAKSHMINARAYANA
+LEARNING TRACK - DEVELOPER
+Email - nadiendilalakshminarayana@gmail.com
+Tarailhead Profile - https://www.salesforce.com/trailblazer/lakshminarayananadiendila
+Username (Developer Org) - nadiendilalakshminarayana@gdcproject.com
+Contact - 9059334227
 
+Name - KUMMARI SREENIVASULU
+LEARNING TRACK - DEVELOPER
+Email - sreenukorukolla@gmail.com
+Tarailhead Profile - https://www.salesforce.com/trailblazer/sreenivasulukummari
+Username (Developer Org) - sreenukorukolla@gdcproject.com
+Contact - 9392716197
+
+Name - SANKINENI RAJESH
+LEARNING TRACK - DEVELOPER
+Email - sankinenirajesh82@gmail.com
+Tarailhead Profile - https://www.salesforce.com/trailblazer/sankinenirajesh
+Username (Developer Org) - sankinenirajesh82@gdcproject.com
+Contact - 9515278141
+
+Name - MARRI SASI KUMAR
+LEARNING TRACK - DEVELOPER
+Email - sasikumar90586@gmail.com
+Tarailhead Profile - https://www.salesforce.com/trailblazer/sasimarri
+Username (Developer Org) - sasikumar90586@gdcproject.com
+Contact - 8790209480
